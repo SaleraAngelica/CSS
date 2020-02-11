@@ -1,0 +1,9 @@
+h1 {font-size: 45px ; font-weight: 500; text-align: center; color: red;}
+h2 {color: red;}
+hr {border-top: 1px dashed black;}
+p  {text-align: justify ; margin-left: 1cm;}
+ul {text-align: justify ; margin-left: 0.25cm;}
+span{font-weight: bold}
+
+.bold{font-weight: bold;}
+.center{text-align: center ; font-size: x-small;}
